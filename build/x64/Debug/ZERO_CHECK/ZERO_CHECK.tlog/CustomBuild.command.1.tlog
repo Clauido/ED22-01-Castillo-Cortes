@@ -1,0 +1,10 @@
+^C:\USERS\CLAUDIO CÓRTES M}\DESKTOP\CARPETAS\UNIVERSIDAD\TERCER AÑO\ESTRUTURA DE DATOS\TALLER_CASTILLO_CORTES\BUILD\CMAKEFILES\ED4FCF9C74B12B73C64E9FCC7AB8DAEF\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-SC:/Users/Claudio Córtes M}/Desktop/Carpetas/Universidad/Tercer Año/Estrutura de Datos/Taller_Castillo_Cortes" "-BC:/Users/Claudio Córtes M}/Desktop/Carpetas/Universidad/Tercer Año/Estrutura de Datos/Taller_Castillo_Cortes/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/Claudio Córtes M}/Desktop/Carpetas/Universidad/Tercer Año/Estrutura de Datos/Taller_Castillo_Cortes/build/taller_castillo_cortes.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

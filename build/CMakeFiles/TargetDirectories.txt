@@ -1,0 +1,9 @@
+C:/Users/Claudio Córtes M}/Desktop/Carpetas/Universidad/Tercer Año/Estrutura de Datos/Taller_Castillo_Cortes/build/CMakeFiles/Experimental.dir
+C:/Users/Claudio Córtes M}/Desktop/Carpetas/Universidad/Tercer Año/Estrutura de Datos/Taller_Castillo_Cortes/build/CMakeFiles/Nightly.dir
+C:/Users/Claudio Córtes M}/Desktop/Carpetas/Universidad/Tercer Año/Estrutura de Datos/Taller_Castillo_Cortes/build/CMakeFiles/Continuous.dir
+C:/Users/Claudio Córtes M}/Desktop/Carpetas/Universidad/Tercer Año/Estrutura de Datos/Taller_Castillo_Cortes/build/CMakeFiles/NightlyMemoryCheck.dir
+C:/Users/Claudio Córtes M}/Desktop/Carpetas/Universidad/Tercer Año/Estrutura de Datos/Taller_Castillo_Cortes/build/CMakeFiles/taller_castillo_cortes.dir
+C:/Users/Claudio Córtes M}/Desktop/Carpetas/Universidad/Tercer Año/Estrutura de Datos/Taller_Castillo_Cortes/build/CMakeFiles/PACKAGE.dir
+C:/Users/Claudio Córtes M}/Desktop/Carpetas/Universidad/Tercer Año/Estrutura de Datos/Taller_Castillo_Cortes/build/CMakeFiles/RUN_TESTS.dir
+C:/Users/Claudio Córtes M}/Desktop/Carpetas/Universidad/Tercer Año/Estrutura de Datos/Taller_Castillo_Cortes/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/Claudio Córtes M}/Desktop/Carpetas/Universidad/Tercer Año/Estrutura de Datos/Taller_Castillo_Cortes/build/CMakeFiles/ZERO_CHECK.dir
